@@ -15,7 +15,7 @@
   - Création de TCD pour analyser le comportement des clients par type de carte, selon Revenu Annuel, selon le Genre, le 
     Niveau d’Études, selon le Statut Marital, ou encore les Comportements Financiers. 
 - **Fichiers Référencés** :
-  - `Analyses/BANGOURA_ANDRE_2_VISUALISATIONS_072024.pdf`
+  - `Donnees/Primero_Donnees_corrigees_et_TCD.pdf`
 
 ## 3. Visualisation des Données
 - **Actions** :
