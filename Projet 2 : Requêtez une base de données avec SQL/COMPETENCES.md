@@ -1,4 +1,4 @@
-## 🚀 Compétences Développées lors du projet Projet Dat’Assur Habitation
+## 🚀 Compétences Développées lors du Projet Dat’Assur Habitation
 
 ### 🔧 **Compétences Techniques :**
 1. **Manipulation de bases de données :**
