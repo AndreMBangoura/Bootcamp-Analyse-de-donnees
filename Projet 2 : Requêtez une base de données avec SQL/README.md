@@ -89,3 +89,5 @@ Ce projet a permis de dresser un état des lieux de la tarification actuelle che
 
 ## ✒️ Auteur
 Projet réalisé par : **André Mamadouba Bangoura** - Data Analyst.
+## 📞 Contact
+andrembangoura@gmail.com
