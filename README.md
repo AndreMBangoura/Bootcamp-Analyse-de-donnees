@@ -11,6 +11,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 - Identifier les caractéristiques des clients ayant quitté la banque.
 - Déterminer les facteurs influençant l’attrition.
 - Proposer des recommandations pour fidéliser les clients.
+
 🛠️ **Technos utilisées** : Excel (TCD).
 📑 **Livrables** : Le rapport d’analyse et La présentation de l’analyse.
 
@@ -23,6 +24,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 - Analyser les différences tarifaires par région et type de bien.
 - Standardiser la politique de tarification.
 - Produire des rapports et visualisations.
+
 🛠️ **Technos utilisées** : SQL, Excel.
 📑 **Livrables** : Documentation technique, rapports de résultats.
 
@@ -35,6 +37,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 - Réviser la gestion des données pour respecter le RGPD.
 - Anonymiser et pseudonymiser les données clients.
 - Mettre en place des formations et rédiger des recommandations.
+
 🛠️ **Technos utilisées** : SQLite, Excel (Power Query).
 📑 **Livrables** : Rapport de conformité, recommandations RGPD, fichiers anonymisés.
 
@@ -46,6 +49,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 - Développer un tableau de bord interactif pour suivre l’avancement des projets.
 - Identifier les retards et évaluer les performances.
 - Permettre une prise de décision rapide grâce aux visualisations.
+
 🛠️ **Technos utilisées** : Power BI, Power Query, DAX.
 📑 **Livrables** : Tableau de bord dynamique, documentation technique.
 
