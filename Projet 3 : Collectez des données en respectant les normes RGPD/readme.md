@@ -1,4 +1,4 @@
-# 📊 Projet : Conformité et Confiance : Renforcer la Gestion des Données chez Dev’Immediat" 
+# 📊 Projet : Conformité et Confiance : Renforcer la Gestion des Données chez Dev’Immediat
 
 ## 📋 Contexte du Projet
 
