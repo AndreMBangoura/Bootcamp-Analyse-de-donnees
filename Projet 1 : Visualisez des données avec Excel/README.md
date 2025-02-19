@@ -74,10 +74,10 @@ Le fichier contient également un glossaire des différentes variables pour clar
 3. **Options de paiement flexibles**.
 4. **Formation du personnel**.
 
-## 🚀 Démarrage du Projet
-1. Ouvrir le fichier d’analyse (`BANGOURA_ANDRE_1_ANALYSE_072024.pdf`).
-2. Consulter les visualisations (`BANGOURA_ANDRE_2_VISUALISATIONS_072024.pdf`).
-3. Explorer les TCD dans le fichier `Primero_Donnees_corrigees_et_TCD.pdf`.
+## 🚀 Livrables du Projet :
+1. Ouvrir le fichier d’analyse (Analyses/`BANGOURA_ANDRE_1_ANALYSE_072024.pdf`).
+2. Consulter les visualisations (Analyses/`BANGOURA_ANDRE_2_VISUALISATIONS_072024.pdf`).
+3. Explorer les TCD dans le fichier (Donnees/`Primero_Donnees_corrigees_et_TCD.pdf`).
 
 ## 📞 Contact
 
