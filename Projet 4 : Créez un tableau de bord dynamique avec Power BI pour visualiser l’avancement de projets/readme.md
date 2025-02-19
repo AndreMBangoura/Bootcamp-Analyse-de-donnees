@@ -22,8 +22,12 @@ En tant que **Data Analyst consultant** chez **ESN Data**, j'ai été chargé de
 
 ### 🔹 4. Création du Tableau de Bord  
 🎨 **Conception d’interfaces utilisateur intuitives et interactives**, intégrant :  
-- 📅 **Diagrammes de Gantt** pour la gestion des échéances.  
+- 📅 **Diagrammes de Gantt** pour la gestion des échéances et suivi des retards.  
 - 🔎 **Filtres avancés** pour une analyse détaillée par **région, pays et type de projet**.  
+- 🌍 **Carte interactive** avec des couleurs différenciant les projets en retard par rapport au planning.  
+- 💡 **Visualisations d’influenceurs clés** pour expliquer les retards sur les livrables de la phase testing.  
+- 💬 **Boîte de questions-réponses** permettant aux utilisateurs de créer leurs propres visuels par requête en langage naturel.  
+- 👤 **Gestion des rôles et accès** avec des vues adaptées pour les directeurs généraux, régionaux et pays.  
 
 ## 🚀 Résultats  
 
