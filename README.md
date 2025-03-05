@@ -20,6 +20,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 
 ### 2️⃣ **📊 Projet Dat’Assur Habitation**
 📌 **Contexte** : Analyse du portefeuille de contrats d’assurance habitation pour standardiser la politique tarifaire de Dat’Assur.
+
 🎯 **Objectifs** : 
 - Créer une base de données unifiée.
 - Analyser les différences tarifaires par région et type de bien.
@@ -35,6 +36,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 
 ### 3️⃣ **📊 Projet Conformité RGPD chez Dev’Immediat**
 📌 **Contexte** : Audit et mise en conformité des pratiques de gestion des données après une sanction de la CNIL.
+
 🎯 **Objectifs** :
 - Réviser la gestion des données pour respecter le RGPD.
 - Anonymiser et pseudonymiser les données clients.
@@ -48,6 +50,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 
 ### 4️⃣ **📊 Tableau de Bord pour Sanitoral**
 📌 **Contexte** : Création d’un tableau de bord Power BI pour optimiser le suivi des projets de Sanitoral, un leader du secteur bucco-dentaire.
+
 🎯 **Objectifs** :
 - Développer un tableau de bord interactif pour suivre l’avancement des projets.
 - Identifier les retards et évaluer les performances.
@@ -59,7 +62,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 
 ---
 
-## 📞 Contact
+## 📞 Contact : 07 66 52 94 75
 📧 **Email** : andrembangoura@gmail.com
 📌 **Portfolio GitHub** : https://andrembangoura.github.io/portfolio/
 
