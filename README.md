@@ -7,6 +7,7 @@ Bienvenue sur mon portfolio de projets Data Analyst ! Ici, vous trouverez une s�
 
 ### 1️⃣ **📊 Projet Primero Bank - Analyse des Départs de Clients**
 📌 **Contexte** : Comprendre les départs de clients d’une banque 100% en ligne et identifier les segments à risque.
+
 🎯 **Objectifs** :
 - Identifier les caractéristiques des clients ayant quitté la banque.
 - Déterminer les facteurs influençant l’attrition.
